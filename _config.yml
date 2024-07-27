@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Taslim Hosen Shanto"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Md Taslim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Software Engineer-L1 at Polygon Technology Limited, Dhaka, Bangladesh"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Jashore University of Science and Technology"
+  uri              : "https://just.edu.bd/"
   email            : "taslim.cse06@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FidSHJIAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -44,7 +44,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "academicpages"
-  kaggle           : # Username  
+  LinkedIn         : "https://www.linkedin.com/in/taslimhosen/"  
+  Github	   : "https://github.com/Shanto06"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
